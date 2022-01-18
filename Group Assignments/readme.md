@@ -1,1 +1,3 @@
-This is where we will copy and paste what we've written in the google doc
+###Week 2 Research Proposal: Affordable Housing and Community Health
+
+
