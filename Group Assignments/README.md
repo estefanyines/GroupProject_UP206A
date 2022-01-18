@@ -1,1 +1,21 @@
-#Hi
+# Week 2 Research Proposal: Affordable Housing and Community Health
+
+## Research Question and Background 
+
+For our final project, we plan to explore the intersection between affordable housing and community health in Los Angeles. To better understand the communities where affordable housing is located and their access to health-promoting amenities, we will study the location of affordable rental properties in relation to local parks and grocery stores. (A large body of research) [http://cloud.tpl.org/pubs/benefits_HealthBenefitsReport.pdf] shows that parks provide a number of health benefits to neighboring residents including physical activity and mental wellbeing. Similarly, [local grocery stores provide access] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071013/) to healthy, lower-cost food. Using these indicators, this study will enable us to understand the spatial relationship between affordable developments and healthy living to potentially gain insights on the health profiles of Los Angeles residents. Given what we know about the need for and location of affordable housing, inequitable distribution of green space, and the prevalence of food deserts, we predict that affordable rental properties are located in areas with limited access to parks and grocery stores. 
+
+In a [report] (https://news.usc.edu/179928/los-angeles-rent-burdened-households-basic-needs-usc-research/) by USC’s Price Sol Center for Social Innovation, research found that 60% of Los Angeles renters experience rent burden and limit their food intake to afford rent. Given that affordable housing is already limited, it is important to consider its location to maximize existing resources. In understanding the landscape of existing affordable housing in connection to health, we can assess the effectiveness of placement and potentially recommend equity measures when identifying future sites for development. 
+
+## Data Sources
+
+We plan to use at least three data sources for our project. The first is the [Affordable Housing Development dataset] (https://geohub.lacity.org/datasets/affordable-housing-development/explore?location=34.024970%2C-118.404263%2C11.00) from the Los Angeles GeoHub, which includes the names and addresses for all affordable rental properties across the City of Los Angeles. The dataset was last updated in August 2020. Secondly, we will use [California Department of Public Health data] (https://healthdata.gov/State/Park-Beach-Open-Space-or-Coastline-Access/h6ng-xwua/data) on percent of population living within half a mile of parks, beaches, open space, and coastline. The dataset also includes breakdowns of access to parks, beaches, open space, and coastline by race and ethnicity. Lastly, we will use the US Department of Agriculture’s [Food Access Research Atlas] (https://www.ers.usda.gov/data-products/food-access-research-atlas/), which includes food access indicators for populations by census tract. 
+
+If we have the capacity, we may also use affordable rental housing data from [NYC OpenData] (https://opendata.cityofnewyork.us/) (or the [Low Income Housing Tax Credit database] (https://lihtc.huduser.gov/)) and [nation-wide data on access to parks] (https://www.openicpsr.org/openicpsr/project/117921/version/V1/view). This would enable us to compare affordable rental developments in New York City and Los Angeles in terms of their proximity to open space and grocery stores. 
+
+## Analysis and Visualizations
+
+We will use the data described above to determine the average proximity of affordable housing to open space and grocery stores in Los Angeles. We plan to create a baseline map with markers indicating the exact location of affordable housing developments in Los Angeles (using the Los Angeles GeoHub dataset). We also hope to include choropleth maps (in different colors) using data on park and grocery store access, which will be layered over the baseline map. As mentioned above, we may conduct a comparative analysis between Los Angeles and New York City if we have time. 
+
+## Conclusion
+
+With our research, we hope to better understand the effectiveness of affordable housing by assessing its location. It is important for us to understand how accessible health promoting amenities are to the residents of these developments. We believe this tool can also potentially uplift a gap in community development. We hope this resource can help inform new policies and practices necessary to center equity when identifying new affordable housing locations. 
